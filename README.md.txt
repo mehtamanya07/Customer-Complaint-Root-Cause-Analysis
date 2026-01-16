@@ -1,5 +1,7 @@
 # Customer Complaint Root Cause Analysis using NLP
 
+ The complete analysis is provided as a rendered HTML notebook for easy viewing on GitHub.
+
 ## Overview
 This project analyzes real-world customer complaint narratives to identify the
 root causes behind complaints across different financial products using
@@ -55,3 +57,4 @@ This project demonstrates how Natural Language Processing can be applied to
 large-scale customer complaint data to extract actionable business insights.
 The identified root causes can help organizations prioritize operational
 improvements and enhance customer satisfaction.
+
